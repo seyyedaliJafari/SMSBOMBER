@@ -15,7 +15,7 @@
 ## ✅ Installation
 Clone the github repo
 ```bash
-git clone https://github.com/seyyedaliJafari/SMS-Bomber.git
+git clone https://github.com/seyyedaliJafari/SMSBomber.git
 ```
 Change Directory
 ```bash
