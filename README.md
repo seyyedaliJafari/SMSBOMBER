@@ -4,7 +4,13 @@
 <div align="center">
   <p>A freely available and open-source SMS bombing application tailored for use in Iran.</p>
 </div>
-
+<img src="https://img.shields.io/badge/Status-100%25_Working-success?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/APIs-500%2B-critical?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SMS_%2B_Call-Yes-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Threads-Unlimited-ff0066?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Proxy_Support-Yes-9cf?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Block_Proof-Yes-blueviolet?style=for-the-badge" />
+<br>
 > [!CAUTION]
 > ### Before Proceeding with the SMS Bomber, Please Note the Following:
 > - **Active Internet Connection:** Ensure that your device has an active internet connection to contact the required APIs.
