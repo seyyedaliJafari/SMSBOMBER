@@ -124,7 +124,7 @@ def main():
 
     apis = send_otp_requests(target)
 
-    with alive_bar(count * len(apis), theme="filling") as progress_bar:
+    with alive_bar(count * len(apis), theme="smooth") as progress_bar:
         with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
             futures = [
                 executor.submit(process_target, api, proxy_dict) for api in apis * count
